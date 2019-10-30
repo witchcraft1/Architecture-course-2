@@ -1,1 +1,1 @@
-# Arcitecture-course-2
+# Architecture-course-2
